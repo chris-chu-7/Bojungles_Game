@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "You take the vine, but the Bugs are still gnawing at your waist. Thank
+    God there's no more other Bugs, otherwise, you'd be half eaten by now! However,
+    You see a monkey on the vine, and believe me, the monkey is NOT a happy camper
+    right now, and you're invading his terroitory. Think about a mandrill or chimpanzee
+    on steroids. Fortunately, you got an grenade. It hisses violently at you. What's
+    your plan of action? \n\n1. Throw the Grenade\n2. Give up and hop off the vine"
+  nextStates:
+  - {fileID: 11400000, guid: 83e1c036b43c74e19b2244c77c39760b, type: 2}
+  - {fileID: 11400000, guid: 44ed6bc144326433894dba01afafe90a, type: 2}

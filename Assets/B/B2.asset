@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: "\nTurns out things have not gone as planned for you, and you start
+    to get sick of all the bugs that are gnawing furiously at your legs, and crawling
+    up your body to all your parts, and you feel blood sucking on you. You're hungry,
+    and you're extremely short of oxygen at the moment, and bleeding to death. You
+    finally become one with nature within 5 minutes, as the bugs passed out after
+    such a nutritious meal. \n\n1. Try Again\n2. End Game"
+  nextStates:
+  - {fileID: 11400000, guid: 4810d3544e76643bfbf970a533a0c593, type: 2}
+  - {fileID: 11400000, guid: 27d085d30de40470cade11673e562c2a, type: 2}

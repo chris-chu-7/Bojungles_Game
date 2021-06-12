@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: D1
+  m_EditorClassIdentifier: 
+  storyText: 'You are captured, and put on some sedative. You wake up in a lab and
+    a raging scientists, who wants to "restart humanity clean again". He gives a
+    2 hour long speech as you are tortured in the chamber on how humanity is evil
+    and how he is he saviour. You''ve heard this in movies, but you never thought
+    this was going to happen for real. Now you are given the keys to a nuclear reactor,
+    some chemicals, and some biological weapons of mass destruction. You have the
+    ability to destroy the world 10x over with your knowledge in nuclear engineering
+    from MIT, but you''ve decided to go travel to ease your conscience. Should you:
+
+
+    1.
+    Agree to Make The Weapon
+
+    2. Stand By your Moral Compass.'
+  nextStates:
+  - {fileID: 11400000, guid: a04efc63dad1f4d828eaafb044a171f5, type: 2}
+  - {fileID: 11400000, guid: 720c3598cc44346d2957553de5aff2f4, type: 2}

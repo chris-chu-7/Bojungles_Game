@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: E3
+  m_EditorClassIdentifier: 
+  storyText: "The indigeonous player, named k'polo, slots it straight through the
+    goal, and you were there to block the shot, and a feeling of euphoria shoots
+    through you as you have survived. At the same time, the shot was so hard, your
+    arm cannot move and felt completely broken. Luckily for you, at this moment,
+    the US Air Force has found you within the hour and put you, bloodied, bruised
+    up, partially paralized and euphoric, back to the F-80 for medical treatment,
+    where you see your spouse and children again. You also made friends with Maradona,
+    who gives you his own personal chef and lessons on soccer. \n\n1. Play Again\n2.
+    End Game\n"
+  nextStates:
+  - {fileID: 11400000, guid: 27d085d30de40470cade11673e562c2a, type: 2}

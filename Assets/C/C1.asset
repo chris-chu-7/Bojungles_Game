@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: C1
+  m_EditorClassIdentifier: 
+  storyText: 'You throw the grenade at the monkey, and it bursts into pieces, with
+    its decapitated face pointing towards you after its death. Well, you thought,
+    "So uncivilized) and start going from vine to vine in the trees. Desperately
+    trying to avoid the bugs. Finally, the pullup lessons that your dad has tortured
+    you for is working to help you get out of this place! However, you can see that
+    there''s a waterfall, and a helicopter full of monkeys and rebels. Apparently
+    you have angered the entire clan, and they want to capture you. You''re a brilliant
+    scientist, and they want you to make a concoction to destroy the world. Do you
+
+
+    1.
+    Allow capture
+
+    2. Jump into the WaterFall'
+  nextStates:
+  - {fileID: 11400000, guid: 9af85372954c94091972a84f601af8cc, type: 2}
+  - {fileID: 11400000, guid: 35213c654c107474194ea4d865b71008, type: 2}

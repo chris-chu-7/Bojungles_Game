@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: "It's a week in, and you finally used your nuclear engineering/physics
+    knowledge to make a transmission bomb that will destroy the entire planet. You
+    feel guilty and relieved that you have survived the mission. However, the clan
+    has an heinous motivation, and they proceed to lock you in and grab the chemical
+    detonator away from you and fly up to the sky. You wait a minute with impending
+    doom. After 10 minutes of screaming and kicking to get out of the lab, the clan
+    activates the weapon, and you are instantly vaporized. \n\n1. Try Again\n2. End
+    Game"
+  nextStates:
+  - {fileID: 11400000, guid: 4810d3544e76643bfbf970a533a0c593, type: 2}
+  - {fileID: 11400000, guid: 27d085d30de40470cade11673e562c2a, type: 2}

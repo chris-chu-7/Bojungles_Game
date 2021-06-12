@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: 'Bugs, everywhere, starts your journey in the jungle on an unexpected
+    and rather unpreferred manner. They are crawling up your suit.
+
+    Fortunately,
+    there''s a vine that you can take in order to escape such torture, but you have
+    done intermmitant fasting and haven''t eaten.
+
+
+    What will you do?
+
+
+    1.
+    Take the vine
+
+    2. Walk on to look for Food'
+  nextStates:
+  - {fileID: 11400000, guid: 60fa1b4a357b34159adb2aeb850a1bd5, type: 2}
+  - {fileID: 11400000, guid: ef1e9038c9a714a14a98b1862ede7d4a, type: 2}

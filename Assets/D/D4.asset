@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: D4
+  m_EditorClassIdentifier: 
+  storyText: "You're in luck! Turns out this Short fat guy is no one else but...
+    drumroll please... Diego Maradona. He's been really taking it on the drugs lately;
+    however, he still hasn't lost his skill. The indigenous people are completely
+    baffled, they chose the wrong guy as a teammate. During the game, he dribbles
+    past the goalkeeper and scores a goal, however, 30 minutes later at the end of
+    regulation time, he scores another goal, this time to be denied because of the
+    handball. The aliens won't take another reincarnation of the \"hand of god\".
+    There is a penalty, and this is the last play of the game. You are the goalkeeper
+    and the 4'6\" indigeous tribe has gotten their hardest shooter to score the penalty,
+    and you can tell he is really hungry. He fires a shot around 100mph. As a goalkeeper
+    do you:\n1. stay in the middle\n2. Dive \n"
+  nextStates:
+  - {fileID: 11400000, guid: 6a43d2561c0bb43a3a86d2a436709f9d, type: 2}
+  - {fileID: 11400000, guid: a25eb0ebce688474ea1df6ce936ec926, type: 2}

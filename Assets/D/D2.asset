@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: D2
+  m_EditorClassIdentifier: 
+  storyText: 'You jump into the water, finally relieved of the stinging that the
+    insect poison has caused. However, you have broken several bones, and see your
+    flesh float on the water. "Hmm" you said, "Maybe all my years of mental self
+    destruction translated into physical ones". These are actually pirahnas eating
+    away your flesh. You think to yourself, "Oh this day couldn''t get any worse"
+    as you meet your demise as fish food, leaving your bones to decay at the bottom
+    of the river.
+
+
+    1. Try Again
+
+    2. End Game'
+  nextStates:
+  - {fileID: 11400000, guid: 4810d3544e76643bfbf970a533a0c593, type: 2}
+  - {fileID: 11400000, guid: 27d085d30de40470cade11673e562c2a, type: 2}

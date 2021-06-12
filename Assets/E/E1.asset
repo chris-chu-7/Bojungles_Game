@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: E1
+  m_EditorClassIdentifier: 
+  storyText: "You've agreed reluctantly to make the weapon, and now you are given
+    tools to be able to make them, and you can see a few warheads and other materials,
+    with a bunch of Printed circuit boards with a skull image over it. You can use
+    your knowledge of rocket science to escape, or you can attempt to bargain with
+    them to build the right element.  You still have your parachute that you bought
+    for your journey. They promise to. take you aboard their helicopter while the
+    world is being destroyed. What do you do? \n\n1. Build rocket suit to escape.\n\n2.
+    Make the weapon."
+  nextStates:
+  - {fileID: 11400000, guid: f67d74b0fb3f04b35b7211f52901e649, type: 2}
+  - {fileID: 11400000, guid: 12bff3c2991d44d7e942144a4a512384, type: 2}

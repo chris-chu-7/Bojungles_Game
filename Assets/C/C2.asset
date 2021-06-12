@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1ffb8e0632947fa9b485c459a72172, type: 3}
+  m_Name: C2
+  m_EditorClassIdentifier: 
+  storyText: 'You hop off the vine, only to meet a group of small indigenous people
+    after trying to eat one of the tasty meats that you see on a plate around half
+    a mile from where you encountered the muscular mandrill. These people are cruel, 
+    and they are HUNGRY. You wonder, "Hmm, why does everyone want to eat me these
+    days?" The chief challenges you to a soccer game, and you get to go free if you
+    win. It''s a 2x2 soccer game, and you get to choose some teammates. If you win,
+    you go free, and the other team will get eaten regardless.  Even if you tie,
+    you still will get eaten: you HAVE to win. There''s no escape now. You''ve played
+    soccer, but only until you were about 10 or 11. These people were all around
+    4''6" so you''re like what''s the big deal. There''s 2 people you can choose,
+    a muscular, 6''8" man who looks like he can knock out mike tyson, or a overweight
+    5''5" guy with a bald head and a tooth gap. Which one do you choose?
+
+
+    1.
+    Mr. Muscles
+
+    2. Overweight guy'
+  nextStates:
+  - {fileID: 11400000, guid: 3d0834fe034e14510956dac82d499cc4, type: 2}
+  - {fileID: 11400000, guid: 6132bc9da18bc472b9da7ebc4ec05225, type: 2}
